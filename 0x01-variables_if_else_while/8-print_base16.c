@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
 /**
 *main - Entry point
 *Return: Always 0 (Success)
@@ -16,6 +16,6 @@ int main(void)
 	for (low = 'a'; low <= 'f'; low++)
 	putchar(low);
 	putchar('\n');
-	
+
 	return (0);
 }
