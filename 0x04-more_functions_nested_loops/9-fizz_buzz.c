@@ -8,8 +8,8 @@ int main(void)
 	int i;
 	char a[] = "Fizz";
 	char b[] = "Buzz";
-	char ab[] = "FizzBuzz"
-	
+	char ab[] = "FizzBuzz";
+
 	for (i = 1; 1 <= 100; i++)
 	{
 		if (i == 100)
