@@ -1,12 +1,12 @@
 #include "main.h"
 /**
 *print_triangle - prints a triangle followed by a new line
-*@size: int 
+*@size: int i
 */
 void print_triangle(int size)
 {
 	int a, b, c;
-	
+
 	if (size <= 0)
 	{
 	_putchar('\n');
