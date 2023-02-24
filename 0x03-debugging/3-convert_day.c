@@ -8,7 +8,6 @@
 * Return: day of year
 */
 
-int convert_day(int month, int day)
 {
     switch (month)
     {
